@@ -22,3 +22,5 @@ code bot protect v2 cette v3 repousse les limites avec des fonctionnalités avan
 - 🌐 **Support multilingue** : Français et Anglais pour une accessibilité mondiale.
 - 🖥️ **Dashboard intuitif** : Gérez votre bot facilement via une interface web.
 - 🌍 **Multi-serveur** : Des commandes utilisables sur plusieurs serveurs, sans limites !
+
+https://katabump.com
